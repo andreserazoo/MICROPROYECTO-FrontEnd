@@ -8,7 +8,7 @@ Este proyecto es una aplicación web creada con **React + Vite**, sin SSR, que p
 
 
 
-🚀 Funcionalidades**
+🚀 Funcionalidades
 
 * Registro de usuarios
 * Login con validación
@@ -22,7 +22,7 @@ Este proyecto es una aplicación web creada con **React + Vite**, sin SSR, que p
 
 
 
-📌 Tecnologías usadas**
+📌 Tecnologías usadas
 
 * React
 * Vite
