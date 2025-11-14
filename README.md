@@ -74,6 +74,3 @@ http://localhost:5173
 * Al registrar → se inicia sesión automáticamente
 * Logout disponible desde el header
 
----
-
-Si quieres, te lo hago más largo, más formal o con imágenes.
